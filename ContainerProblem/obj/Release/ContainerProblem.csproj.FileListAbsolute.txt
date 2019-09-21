@@ -1,0 +1,14 @@
+D:\1Folders\C#\ContainerProblem\ContainerProblem\bin\Release\ContainerProblem.exe.config
+D:\1Folders\C#\ContainerProblem\ContainerProblem\bin\Release\ContainerProblem.exe
+D:\1Folders\C#\ContainerProblem\ContainerProblem\bin\Release\ContainerProblem.pdb
+D:\1Folders\C#\ContainerProblem\ContainerProblem\obj\Release\ContainerProblem.csproj.CoreCompileInputs.cache
+D:\1Folders\C#\ContainerProblem\ContainerProblem\obj\Release\ContainerProblem.exe
+D:\1Folders\C#\ContainerProblem\ContainerProblem\obj\Release\ContainerProblem.pdb
+D:\1Folders\C#\ContainerProblem\ContainerProblem\obj\Release\ContainerProblem.csprojAssemblyReference.cache
+D:\1Folders\Projects\ContainerProblem\ContainerProblem\bin\Release\ContainerProblem.exe.config
+D:\1Folders\Projects\ContainerProblem\ContainerProblem\bin\Release\ContainerProblem.exe
+D:\1Folders\Projects\ContainerProblem\ContainerProblem\bin\Release\ContainerProblem.pdb
+D:\1Folders\Projects\ContainerProblem\ContainerProblem\obj\Release\ContainerProblem.csprojAssemblyReference.cache
+D:\1Folders\Projects\ContainerProblem\ContainerProblem\obj\Release\ContainerProblem.csproj.CoreCompileInputs.cache
+D:\1Folders\Projects\ContainerProblem\ContainerProblem\obj\Release\ContainerProblem.exe
+D:\1Folders\Projects\ContainerProblem\ContainerProblem\obj\Release\ContainerProblem.pdb
